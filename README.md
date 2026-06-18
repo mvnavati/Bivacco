@@ -1,4 +1,7 @@
-# Bivacco
+<p align="left">
+  <img src="assets/Bivacco.png" alt="Typeface Name logo" width="380">
+</p>
+
 
 **Bivacco** is a font designed by **Maria Vittoria Navati**.
 
